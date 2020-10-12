@@ -1,5 +1,5 @@
 # AffluenzaBot
-Il prototipo si propone come strumento di conteggio dell'affluenza ad un seggio.
+
 
 **Composizione**
  - Arduino MKR WiFi 1010 Board

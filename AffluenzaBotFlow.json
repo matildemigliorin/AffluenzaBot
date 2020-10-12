@@ -1,1 +1,0 @@
-[{"id":"7222b73a.a12728","type":"chatbot-telegram-send","z":"fffec827.7ba228","bot":"","botProduction":"","track":true,"passThrough":true,"outputs":1,"x":710,"y":520,"wires":[[]]}]

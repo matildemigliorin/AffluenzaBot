@@ -27,3 +27,7 @@ Nel flow di Node-RED sono stati usati principalmente:
 - node-red-contrib-mqtt-broker
 
 che hanno permesso, rispettivamente, di controllare l'AffluenzaBot e di collegarlo tramite il Mosca MQTT broker ad Arduino.
+
+
+**Peculiarità del prototipo**
+Questo prototipo è stato ideato sia per essere utilizzato con l'obiettivo sopra descritto, ma anche per essere applicato in qualunque caso servisse uno strumento di calcolo di affluenza in un determinato luogo e per la gestione del sovraffollamento e del distanziamento sociale di ed in ambienti chiusi. A questo proposito, una prima applicazione potrebbe essere quella all'interno del progetto [CTRL-Z](https://ctrl-z.netlify.app/), in particolare del gruppo che si occupa della gestione della movida per i [piccoli esercenti](https://ctrl-z.netlify.app/docs/gruppo-2/), in fase di realizzazione per il corso di IoT presso la [Fondazione ITS per l'ICT Piemonte](https://www.its-ictpiemonte.it/) sotto la supervisione dei docenti Davide Gomba ed Alessandro Buzzi.

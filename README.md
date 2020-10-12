@@ -25,4 +25,5 @@ Contemporaneamente a queste azioni, l'AffluenzaBot invierà il valore del numero
 Nel flow di Node-RED sono stati usati principalmente:
 - node-red-contrib-chatbot
 - node-red-contrib-mqtt-broker
+
 che hanno permesso, rispettivamente, di controllare l'AffluenzaBot e di collegarlo tramite il Mosca MQTT broker ad Arduino.

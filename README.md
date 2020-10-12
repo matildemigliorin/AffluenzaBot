@@ -1,14 +1,14 @@
 # AffluenzaBot
 Il prototipo si propone come strumento di conteggio dell'affluenza ad un seggio.
 
-Composizione
+**Composizione**
  - Arduino MKR WiFi 1010 Board
  - Grove RGB LED Ring (20 -WS2813 Mini)
  - Grove OLED DIsplay 0.96" (SSD1315)
  - Node-RED
  - Telegram bot
 
-Come funziona
+**Come funziona**
 All'utente che sta per entrare a votare dentro il seggio, viene presentato un dispositivo (pc o telefono, preferibilmente non il proprio per questioni di anonimato) in cui è presente ed in funzione il bot. Compariranno 3 tipologie di interazione sotto forma di bottonoe:
 - Registrami: da premere in questa fase appena descritta, ovvero prima di entrare dentro il seggio a votare
 - Ho votato: da premere dopo essere entrati dentro il seggio ed aver quindi votato

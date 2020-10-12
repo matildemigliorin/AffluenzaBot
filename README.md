@@ -18,4 +18,6 @@ All'utente che sta per entrare a votare dentro il seggio, viene presentato un di
 Quando l'utente preme il bottone 'Registrami', il LED Ring potrebbe cambiare colore. Diventerà (o rimarrà) verde se dentro al seggio sono presenti contemporaneamente al più 3 persone, dunque si saturerebbe la capienza con l'utente entrante in questione. Diventerà invece rosso se, dopo che l'utente ha registrato la propria presenza al voto, il seggio è già momentaneamente occupato al massimo della sua capacità (con questo prototipo è stata impostata a 4 persone ma può essere facilmente cambiata modificando la variabile countprt all'interno del codice Arduino).
 Contemporaneamente a queste azioni, l'AffluenzaBot invierà il valore del numero di persone che hanno registrato la propria presenza al seggio, dunque l'affluenza, che verrà stampato sull'OLED.
 
+
 **Node-RED Flow**
+![FlowAffluenzaBot](https://user-images.githubusercontent.com/59685328/95745943-478d4380-0c96-11eb-8fa3-83408e6114fa.png)

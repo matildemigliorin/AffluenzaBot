@@ -21,7 +21,9 @@ Contemporaneamente a queste azioni, l'AffluenzaBot invierà il valore del numero
 
 
 **Node-RED Flow**
-![image](https://user-images.githubusercontent.com/59685328/95746407-06496380-0c97-11eb-8469-19bc0ce6be9c.png)
+![image](https://user-images.githubusercontent.com/59685328/95761403-8f1eca00-0cac-11eb-94b9-2a3063ecc097.png)
+
+
 
 Nel flow di Node-RED sono stati usati principalmente:
 - node-red-contrib-chatbot

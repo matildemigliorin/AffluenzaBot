@@ -21,7 +21,8 @@ Contemporaneamente a queste azioni, l'AffluenzaBot invierà il valore del numero
 
 
 **Node-RED Flow**
-![image](https://user-images.githubusercontent.com/59685328/95761403-8f1eca00-0cac-11eb-94b9-2a3063ecc097.png)
+![image](https://user-images.githubusercontent.com/59685328/95761738-08b6b800-0cad-11eb-8657-21df486a2b26.png)
+
 
 
 
